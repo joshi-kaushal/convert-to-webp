@@ -1,0 +1,15 @@
+{
+  "name": "convert-to-webp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kaushal Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.3"
+  }
+}
