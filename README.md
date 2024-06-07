@@ -1,6 +1,6 @@
 # PNG to WebP
 
-A stupidly simple Node.js script to convert PNG images to WebP format.
+A stupidly simple Node.js script to convert images to WebP format.
 
 ## How to use?
 1. Clone the repository and install the dependencies.
